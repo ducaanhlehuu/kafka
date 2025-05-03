@@ -10,7 +10,7 @@ database:
 
 admin:
   email: ducanh@gmail.com
-  password: hehehe
+  password: adminPass123!
 
 auth: # Define a local user (optional)
   local-users:
